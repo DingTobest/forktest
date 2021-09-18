@@ -1,2 +1,4 @@
 # forktest
 testfork
+
+test
